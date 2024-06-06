@@ -8,7 +8,7 @@
     <link href="/2024/06/06/test-text/"/>
     <url>/2024/06/06/test-text/</url>
     
-    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="/images/test_picture1.png"><br><img src="/images/test_picture2.png"></h2>]]></content>
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a><img src="/images/test_picture1.png"><br><img src="https://github.com/vlicoc/vlicoc.github.io/blob/main/images/test_picture2.png"></h2>]]></content>
     
     
     <categories>
